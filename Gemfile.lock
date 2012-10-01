@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     iobuffer (1.1.2)
+    json (1.7.5)
     jubatus (0.1.0)
       msgpack-rpc (~> 0.4.5)
     msgpack (0.4.7)
@@ -15,4 +16,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  json
   jubatus
